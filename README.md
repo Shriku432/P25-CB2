@@ -1,1 +1,2 @@
-# P25-CB2
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
